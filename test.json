@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "O‘zbekiston poytaxti qaysi shahar?",
+      "answer": "Toshkent"
+    },
+    {
+      "id": 2,
+      "question": "Suvning kimyoviy formulasi nima?",
+      "answer": "H2O"
+    }
+  ]
+}
